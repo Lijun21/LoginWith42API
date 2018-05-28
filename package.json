@@ -1,0 +1,19 @@
+{
+  "name": "student_info",
+  "version": "1.0.0",
+  "description": "build HTTP server form scratch to serve data from 42 api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lijun21/student_info.git"
+  },
+  "author": "lwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lijun21/student_info/issues"
+  },
+  "homepage": "https://github.com/Lijun21/student_info#readme"
+}
